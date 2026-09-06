@@ -11,6 +11,8 @@ turns matching cards in their hands with the current card shown on top of the
 deck by either color or number. The goal is to be the first player to get rid 
 of all the cards in their hand.
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
-> More details are mentioned in the [released]() archive.
+## Notes
+- Mainly created for offline LAN play with my siblings, but I wanted to share it :)
+- More details are mentioned in the [released](https://github.com/Mohyoo/UNO-Card-Game-Binaries/releases) archive.
